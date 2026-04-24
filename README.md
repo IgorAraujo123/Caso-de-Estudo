@@ -4,16 +4,16 @@
 Uma empresa de compartilhamento de bicicletas possui planos para seus usuários e deseja verificar como os clientes estão usando os planos
 
 ## Objetivo
-Limpeza de dados para integridade dos dados
-Análise de padrões do usuários 
+Limpeza de dados para integridade dos dados<br>
+Análise de padrões do usuários<br>
 Utilização de Gráficos
 
 ## Dados
-5860568 linhas,<br>
+5860568 linhas<br>
 10 variavéis e 1 classe
 
 ## Resultados
 
-Entender as formas que os ciclistas utilizam os determinados planos,
-Converter ciclistas do plano Casual Riders para Annual Memberships,
+Entender as formas que os ciclistas utilizam os determinados planos<br>
+Converter ciclistas do plano Casual Riders para Annual Memberships<br>
 Ajudar na tomada de decisão dos stakeholders
