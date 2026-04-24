@@ -1,7 +1,7 @@
 # Caso de Estudo
 
 ## Introdução
-Uma empresa de compartilhamento de bicicletas possui planos para seus usuários e deseja verificar como os clientes estão usando os planos
+Uma empresa de compartilhamento de bicicletas possui planos para seus usuários e deseja verificar como os clientes estão usando as assinaturas Casual Riders e Annual Memberships
 
 ## Objetivo
 Limpeza de dados para integridade dos dados<br>
