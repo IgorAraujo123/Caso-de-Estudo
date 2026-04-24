@@ -9,7 +9,7 @@ Análise de padrões do usuários
 Utilização de Gráficos
 
 ## Dados
-5860568 linhas
+5860568 linhas,<br>
 10 variavéis e 1 classe
 
 ## Resultados
