@@ -16,6 +16,6 @@ Link: [Dados](https://divvy-tripdata.s3.amazonaws.com/index.html)<br>
 
 ## Resultados
 
-Entender as formas que os ciclistas utilizam os determinados planos<br>
-Converter ciclistas do plano Casual Riders para Annual Memberships<br>
+Melhor entendimento das formas que os ciclistas utilizam os determinados planos<br>
+Conversão de ciclistas do plano Casual Riders para Annual Memberships<br>
 Ajudar na tomada de decisão dos stakeholders
