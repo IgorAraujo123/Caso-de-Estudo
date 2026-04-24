@@ -6,6 +6,7 @@ Uma empresa de compartilhamento de bicicletas possui planos para seus usuários 
 ## Objetivo
 Limpeza de dados para integridade dos dados<br>
 Análise de padrões do usuários<br>
+Agregação de dados<br>
 Utilização de Gráficos
 
 ## Dados
